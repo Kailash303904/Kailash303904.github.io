@@ -78,18 +78,18 @@ work:
   rank: 2
   list:
     - value:
-        name: Walt Disney Animation Studios
-        location: Burbank, CA
+        name: Rolls Royce University Technology Center in Thermal Management
+        location: Busan S. Korea
         brief: ""
-        position: Senior Software Engineer
-        url: "https://www.disneyanimation.com/"
-        startDate: "2019" # string
+        position: Researcher
+        url: ""
+        startDate: "2023" # string
         endDate: Present # string
         active: true
         highlights:
-          - detail: Sample text written as part of the demo for profileio. Sample text written as part of the demo for profileio
+          - detail: Worked on design and development of an FCOC heat exchanger for application in Rolls-Royce engines.
           - brief: ""
-            detail: This is the sample text written for the demo of profileio
+            detail: Developed numerical and 1D tools for the prediction of heat transfer characteristics and fuel de-congealing time under the given operating conditions.
       render: true
     - value:
         name: Dreamworks Animation

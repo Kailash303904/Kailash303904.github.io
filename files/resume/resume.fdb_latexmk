@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1708754358.48622 "resume.xdv" "resume.pdf" "resume" 1708754358.73507 0
-  "resume.xdv" 1708754358.40609 47464 666e74ab4b7d457596281b236c23ccf0 "xelatex"
+["xdvipdfmx"] 1710059538.80771 "resume.xdv" "resume.pdf" "resume" 1710059539.06941 0
+  "resume.xdv" 1710059538.72762 47464 df610c89ab98bf26fb2de6261d8d56bb "xelatex"
   (generated)
   "resume.pdf"
   (rewritten before read)
-["xelatex"] 1708754349.04988 "./resume.tex" "resume.xdv" "resume" 1708754358.73398 0
-  "./resume.tex" 1708754348.61006 10693 0a476a34c4d299a17792b9b0d7c63bab ""
+["xelatex"] 1710059529.60193 "./resume.tex" "resume.xdv" "resume" 1710059539.06833 0
+  "./resume.tex" 1710059529.14752 10693 0a476a34c4d299a17792b9b0d7c63bab ""
   "/opt/texlive/texdir/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/texdir/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/opt/texlive/texdir/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -32,9 +32,9 @@
   "/opt/texlive/texdir/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1668028059 18450 88279bf67c81e69f8e3f1c1bad1a26c5 ""
-  "/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1642282977 162076 2f6d31c4632f2730c57b9c0fda038e15 ""
-  "/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec.cfg" 1532898934 549 c4adac819276241fea8eb79c5ab7b99e ""
-  "/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec.sty" 1642282977 1656 7e824878bad4df5a3e8bba4e463d9126 ""
+  "/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1707831075 163194 e97577b0d79d363e11289d4e27baa8a4 ""
+  "/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec.cfg" 1707831075 549 c4adac819276241fea8eb79c5ab7b99e ""
+  "/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec.sty" 1707831075 3484 ff877041166391bc5ca8a1e45614784e ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/graphics-def/xetex.def" 1663965824 14788 1dde73f396dd97d88c838bee2a352abe ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/graphics/color.sty" 1654720880 7233 e46ce9241d2b2ca2a78155475fdd557a ""
@@ -48,9 +48,9 @@
   "/opt/texlive/texdir/texmf-dist/tex/latex/hyperref/puenc.def" 1705871765 117112 05831178ece2cad4d9629dcf65099b11 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/kvoptions/kvoptions.sty" 1655478651 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty" 1665067230 13815 760b0c02f691ea230f5359c4e1de23a7 ""
-  "/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-xetex.def" 1704491087 31815 935a376385ab1feff82e3d2187c4f47a ""
-  "/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty" 1705955748 6565 cfd9fd0a1d5f5ad985151778771ff7a9 ""
-  "/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1696969620 9327 c30c00c0072edba199ede5889311aaa9 ""
+  "/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-xetex.def" 1708427688 31815 59e639f95c4a3bc971cad46c02998fac ""
+  "/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty" 1708428282 6565 10e89ed128ccd59431746bbdd82129fc ""
+  "/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1708288304 9327 11bedad2ac38f92e405a38ed18489a03 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/setspace/setspace.sty" 1670275497 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
@@ -58,11 +58,11 @@
   "/opt/texlive/texdir/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/texlive/texdir/texmf-dist/tex/latex/xcolor/xcolor.sty" 1700082560 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/opt/texlive/texdir/texmf-dist/web2c/texmf.cnf" 1697057529 41009 84b61f42d16d06bedb915f57aa2374cf ""
-  "/opt/texlive/texdir/texmf-var/web2c/xetex/xelatex.fmt" 1706756957 10838333 6be869455245658e1ffde57799166713 ""
-  "/opt/texlive/texdir/texmf.cnf" 1706756864 555 bd60ff59e4d560b42d96b004436f91d3 ""
-  "res.cls" 1708754348.61406 25065 00878584ba637ae375b57ce6f6d58323 ""
-  "resume.aux" 1708754349.04206 32 3985256e7290058c681f74d7a3565a19 "xelatex"
-  "resume.tex" 1708754348.61006 10693 0a476a34c4d299a17792b9b0d7c63bab ""
+  "/opt/texlive/texdir/texmf-var/web2c/xetex/xelatex.fmt" 1709256442 10850009 2e5dde855c9cffe1e949caf5e24684c5 ""
+  "/opt/texlive/texdir/texmf.cnf" 1709256410 555 bd60ff59e4d560b42d96b004436f91d3 ""
+  "res.cls" 1710059529.14352 25065 00878584ba637ae375b57ce6f6d58323 ""
+  "resume.aux" 1710059529.59553 32 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "resume.tex" 1710059529.14752 10693 0a476a34c4d299a17792b9b0d7c63bab ""
   (generated)
   "resume.aux"
   "resume.log"
